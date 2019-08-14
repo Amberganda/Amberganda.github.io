@@ -1,11 +1,11 @@
 # Site settings
-author: Amber Taranto
-title: 
+author: Amber
+title: Scraping
 header-img: img/home-bg.png
 email: ambzzzz@gmail.com
-copyright_name: Amber Taranto
+copyright_name: Amber
 description: > # this means to ignore newlines until "baseurl:"
-  
+  When you're scraping for a good deal
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Amberganda

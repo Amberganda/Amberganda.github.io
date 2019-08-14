@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "scraping my way through slickdeals"
-date:       2019-08-14 02:51:39 +0000
+date:       2019-08-13 22:51:40 -0400
 permalink:  scraping_my_way_through_slickdeals
 ---
 
